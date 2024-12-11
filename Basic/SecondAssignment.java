@@ -30,8 +30,8 @@ public class SecondAssignment{
             Java automatically handles memory management, reclaiming unused objects through garbage collection, 
 
             While Java is an interpreted language, it includes a Just-In-Time (JIT) compiler which converts bytecode into native machine code at runtime, improving performance.
-            Distributed Computing:
 
+            Distributed Computing:
             Java supports building distributed applications with features like RMI (Remote Method Invocation) and CORBA, making it easy to create applications that run on multiple machines.
 
 
