@@ -213,7 +213,5 @@ public class Assignment3{
                         System.out.println("It's not a alphabate");
                     }
 
-
-
     }
 }
