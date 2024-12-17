@@ -1,12 +1,12 @@
 # Java Code Repository
 
 Welcome to the **Java Code Repository**!  
-This repository contains Java programs and projects to showcase your coding skills and explore the powerful features of the Java programming language.
+This repository contains Java programs and projects to showcase my coding skills and explore the powerful features of the Java programming language.
 
 ## Repository Purpose
 - Store and organize Java programs and projects.
 - Share knowledge and solutions for common programming tasks.
-- Keep track of your learning and development in Java.
+- Keep track of my learning and development in Java.
 
 ## Getting Started
 
