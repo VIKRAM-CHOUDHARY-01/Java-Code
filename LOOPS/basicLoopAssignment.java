@@ -203,6 +203,18 @@ public class basicLoopAssignment{
             }
             System.out.println("The even sum is : " + sum1);
 
+              //22) 1--->100 odd number sum 
+            int num3 = 1;
+            int sum2=0;
+            while(num3<=100){
+                if(num3%2!=0){
+                    sum2 +=num3;
+
+                }
+                num3++;
+            }
+            System.out.println("The even sum is : " + sum2);
+
 
                 
             
