@@ -2,7 +2,7 @@ import java.util.*;
 public class Assignment4{
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
-        //Assignment3 - 12/12/24 
+        //Assignment4 - 12/12/24 
                 //1)write a program to read a week day number and print weekday name using switch 
                     // eg 1 =>sunday 
                     // 1 sunday
