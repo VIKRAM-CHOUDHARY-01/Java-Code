@@ -101,7 +101,7 @@
     //6 Getter and Setter for Array
         // Create a class Marks with a private field grades (int array). Write setter and getter methods for the grades array.
 
-        class Marks{
+        class Marks{    
             private int[] grades;
 
             public void setGrade(int [] grades){
