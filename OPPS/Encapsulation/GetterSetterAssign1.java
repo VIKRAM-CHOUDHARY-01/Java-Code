@@ -1,6 +1,5 @@
 //Assignment - 23/12/24
 
-
     // 1)Basic Getter and Setter
         // Create a class Person with two fields: name (String) and age (int). Write getter and setter methods for both fields.
 
