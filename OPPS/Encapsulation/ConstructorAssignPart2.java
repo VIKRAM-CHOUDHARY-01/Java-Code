@@ -1,4 +1,4 @@
-//Assignment - Constructor Part 1 21/12/24
+//Assignment - Constructor Part 1 20/12/24
 
 /* Q1   class A
 	    parameterised constructor :two number addition 
