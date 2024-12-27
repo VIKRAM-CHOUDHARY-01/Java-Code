@@ -260,7 +260,7 @@
                 B5 br = new B5();
                 br.m1();
 
-            //Q6
+            //Q5
 
                 A6 opp = new A6();
                 opp.m1();
