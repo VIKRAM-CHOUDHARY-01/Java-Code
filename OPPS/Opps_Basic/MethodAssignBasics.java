@@ -2,7 +2,7 @@
 
 /*Q.1 A :
 	method 1 :hello world  
-    */
+        */
 
    class A{
     void show(){
