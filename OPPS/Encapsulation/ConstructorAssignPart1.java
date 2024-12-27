@@ -213,7 +213,7 @@
 
             class Car2{
             String model;
-            int year=2024;
+            int year;
             Car2(String model, int year){
                 this.model = model;
                 this.year = year;
@@ -341,17 +341,6 @@ public class ConstructorAssignPart1{
 
         //Q19 
             Book4 b4 = new Book4("Greenlights", "Matthew McConaughey");
-
-
-            
-
-
-
-
-
-
-            
-
 
     }
 }
