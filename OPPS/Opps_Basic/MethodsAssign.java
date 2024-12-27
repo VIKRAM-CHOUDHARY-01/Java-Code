@@ -1,6 +1,5 @@
 // OPPS Assignment - 18/12/24
-
-/*  Q.1
+    /*  Q.1
     			no return and argument 
                 A :
                     method one 
