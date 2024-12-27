@@ -1,5 +1,30 @@
 // OPPS Assignment - 17/12/24
 
+/*      
+
+What is OOPs?
+OOPs (Object-Oriented Programming) is a programming paradigm based on the concept of objects, which contain data and methods.
+
+What is a wrapper class?
+A wrapper class in Java is a class that encapsulates primitive data types (e.g., Integer, Double) as objects.
+
+What is a pure object-oriented programming language?
+A pure OOP language treats everything as an object, even primitive types, with no support for primitive types or non-object functions.
+
+What is the difference between object-oriented programming and pure object-oriented programming?
+OOP supports objects and classes, but allows primitive types. Pure OOP requires everything (including basic types) to be objects.
+
+Is Java a pure object-oriented programming language?
+No, because Java supports primitive types (e.g., int, char), which are not objects.
+
+Why is Java not a pure object-oriented programming language?
+Java is not pure OOP because it allows primitive data types that are not objects.
+
+What is the difference between a method and a function?
+A method is a function associated with an object or class in OOP, while a function is a standalone block of code that performs a task.
+
+        */
+
 /*Q.1 A :
 	method 1 :hello world  
         */
