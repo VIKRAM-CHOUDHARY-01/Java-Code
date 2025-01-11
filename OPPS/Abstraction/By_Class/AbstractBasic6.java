@@ -17,6 +17,7 @@ public class AbstractBasic6{
 
         A obj = new B(); // through reference variable
         obj.display();
+        obj.show();
       
         
     }
