@@ -13,5 +13,7 @@ public class Hollow_Triangle_Star_Pattern{
             }
             System.out.println();
         }
+
+     
     }
 }
