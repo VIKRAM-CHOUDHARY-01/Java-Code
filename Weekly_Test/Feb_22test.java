@@ -162,7 +162,7 @@ public class Feb_22test{
         for(int i =0;i<a.length;i++){
             prime=0;
             temp = a[i];
-            for(int j = 1;j<Math.sqrt(temp);j++){
+            for(int j = 1;j<=Math.sqrt(temp);j++){
                 if(temp%j==0){
                     prime++;
                 }
