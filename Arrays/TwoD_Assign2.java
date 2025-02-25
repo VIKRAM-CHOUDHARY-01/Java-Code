@@ -31,7 +31,7 @@ public class TwoD_Assign2{
     }
 
     public static void transposeArray(int a[][], int row, int col){
-        int transposedArray[][] = new int[row][col];
+        int transposedArray[][] = new int[col][row];
         for(int i =0;i<row;i++){
             for(int j =0;j<col;j++){
                 transposedArray[j][i] = a[i][j];
