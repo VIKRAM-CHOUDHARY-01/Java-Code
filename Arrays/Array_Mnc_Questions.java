@@ -494,6 +494,7 @@ public class Array_Mnc_Questions{
                    System.out.println("Its not a prime Number");
                    return;
                 }
+                
             }
             System.out.println("Its a prime Number");
             return;
