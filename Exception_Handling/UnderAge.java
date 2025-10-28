@@ -4,3 +4,9 @@ public class UnderAge extends RuntimeException{
     }
   
 }
+
+public class UnderAge extends RuntimeException{
+	public UnderAge(String error) {
+		super(errorMsg);
+	}
+}
